@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7b449385-741e-4821-b68c-e9f127114f8f}">
 		<property name="note">
-			<value>A one-shot 2D sound used for the melee attack,</value>
+			<value>A one-shot 2D sound used for the melee attack, using multi instruments to make the sound randomized so it doesn't become too repetitive</value>
 		</property>
 		<property name="color">
 			<value>Blue Light 1</value>
