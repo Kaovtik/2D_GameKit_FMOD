@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f254bed0-cf25-4f76-ad12-19cb2df7fc23}">
+		<property name="note">
+			<value>A one-shot 2D sound used for the ranged attack</value>
+		</property>
 		<property name="color">
 			<value>Blue Light 1</value>
 		</property>

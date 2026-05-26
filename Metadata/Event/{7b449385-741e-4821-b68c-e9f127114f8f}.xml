@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7b449385-741e-4821-b68c-e9f127114f8f}">
+		<property name="note">
+			<value>A one-shot 2D sound used for the melee attack,</value>
+		</property>
 		<property name="color">
 			<value>Blue Light 1</value>
 		</property>
@@ -102,14 +105,8 @@
 	</object>
 	<object class="MixerBusPanner" id="{efd01170-f3df-4261-8de4-393baec9f2e6}" />
 	<object class="SingleSound" id="{63b6cde8-90e3-4532-80ef-c8afcd388eea}">
-		<property name="isAsync">
-			<value>true</value>
-		</property>
 		<property name="length">
 			<value>0.5</value>
-		</property>
-		<property name="looping">
-			<value>true</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{c7bf6148-2421-48cb-b850-2e9d695df22c}</destination>
@@ -130,17 +127,11 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{32e6cd3d-1cd6-4c7a-853f-e61a3649bb85}">
-		<property name="isAsync">
-			<value>true</value>
-		</property>
 		<property name="start">
 			<value>0.02</value>
 		</property>
 		<property name="length">
 			<value>0.5</value>
-		</property>
-		<property name="looping">
-			<value>true</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{b58d1e7f-14a9-4eca-99ad-56dcd02092ef}</destination>
