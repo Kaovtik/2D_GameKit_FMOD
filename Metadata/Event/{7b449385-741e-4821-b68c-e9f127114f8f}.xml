@@ -127,7 +127,7 @@
 			<value>-13</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>melee wind</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{2fc473e0-8ad3-4191-a0e5-ff67946c3b60}</destination>
@@ -158,7 +158,7 @@
 			<value>10</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>melee woosh</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{338d052a-9551-4926-9f47-5058c24133c7}</destination>
@@ -186,7 +186,7 @@
 			<value>-9</value>
 		</property>
 		<property name="name">
-			<value>Audio 3</value>
+			<value>melee jingle</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{d34b1fc5-342b-4673-ae22-3417c501e3ef}</destination>

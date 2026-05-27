@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6361e684-224d-43a1-97ac-3d5e9ece9585}">
+		<property name="note">
+			<value>A one-shot 2D sound for the players footsteps in the game including randomized movement sounds of clothing, dirt-debris, as well as other sounds. The surface parameter determines what surface sample should be played
+
+Surface: 0 - Grass
+Surface: 1 - Rock
+Surface: 2 - Metal</value>
+		</property>
 		<property name="color">
 			<value>Blue Light 1</value>
 		</property>

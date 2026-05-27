@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{77015d0e-9c73-44f2-9d49-2b04d451a353}">
+		<property name="note">
+			<value>A one-shot 2D sound for when the player jumps, randomizing sounds so to not become repetitive.</value>
+		</property>
 		<property name="color">
 			<value>Blue Light 1</value>
 		</property>

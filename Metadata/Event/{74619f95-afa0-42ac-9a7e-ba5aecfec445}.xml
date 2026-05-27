@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{74619f95-afa0-42ac-9a7e-ba5aecfec445}">
+		<property name="note">
+			<value>A simple one-shot 2D sound for when the player takes damage, randomizing so to not become repetitive.</value>
+		</property>
 		<property name="color">
 			<value>Blue Light 1</value>
 		</property>
