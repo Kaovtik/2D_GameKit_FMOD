@@ -148,7 +148,7 @@
 			<value>1</value>
 		</property>
 		<property name="volume">
-			<value>5</value>
+			<value>10</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{06e733eb-a536-4a09-b75e-33e2fffcf0a8}</destination>
@@ -161,6 +161,9 @@
 	<object class="MultiSound" id="{212a9795-13bc-4a8e-a1ca-f13893063ef4}">
 		<property name="start">
 			<value>2</value>
+		</property>
+		<property name="volume">
+			<value>10</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{4689a9d6-67cc-48e6-9a34-101ffb3ea2de}</destination>
