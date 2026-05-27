@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{6cf1a273-2861-4d67-a930-88e3e10882fa}">
+	<object class="AudioFile" id="{cb688db4-2259-4c30-9ba3-e400848a3d98}">
 		<property name="assetPath">
 			<value>finished sounds/run_rock_4.wav</value>
 		</property>
