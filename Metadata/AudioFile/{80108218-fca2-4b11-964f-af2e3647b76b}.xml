@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{80108218-fca2-4b11-964f-af2e3647b76b}">
 		<property name="assetPath">
-			<value>run__debris_3.wav</value>
+			<value>finished sounds/run__debris_3.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
