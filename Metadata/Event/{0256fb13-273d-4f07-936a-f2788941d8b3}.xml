@@ -109,7 +109,10 @@
 			<value>0.18149659863945578</value>
 		</property>
 		<property name="startOffset">
-			<value>11.5</value>
+			<value>12</value>
+		</property>
+		<property name="volume">
+			<value>5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{ff0acf67-a294-4307-bb35-b17c4b80c6ed}</destination>
@@ -145,7 +148,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{45c78315-3db2-432b-80e6-6ecadefb43e3}">
 		<property name="volume">
-			<value>-5.5</value>
+			<value>-11</value>
 		</property>
 		<property name="name">
 			<value>jingle</value>
