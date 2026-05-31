@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerReturn" id="{b6844db4-2e00-4997-8191-e5c45599b01a}">
+		<property name="name">
+			<value>CaveReverb</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{36531663-0861-4713-91f1-4b6491f481c6}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{bdb54f79-a7a8-428e-a8f0-675f778f24e1}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{0d701ae7-c4e0-424c-aa96-fccddccd5f44}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{36531663-0861-4713-91f1-4b6491f481c6}">
+		<relationship name="effects">
+			<destination>{c724c416-132c-4f2c-8277-04a1a85de930}</destination>
+			<destination>{3eee81de-1e4b-4e5f-9ad9-07c0a4541255}</destination>
+			<destination>{64ff061f-64ec-42c4-857e-d3f90cee0567}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{bdb54f79-a7a8-428e-a8f0-675f778f24e1}" />
+	<object class="MixerBusFader" id="{c724c416-132c-4f2c-8277-04a1a85de930}" />
+	<object class="SFXReverbEffect" id="{3eee81de-1e4b-4e5f-9ad9-07c0a4541255}" />
+	<object class="DelayEffect" id="{64ff061f-64ec-42c4-857e-d3f90cee0567}" />
+</objects>
