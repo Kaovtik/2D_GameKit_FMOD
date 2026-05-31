@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{5db2ad1d-8421-437d-a9cd-f943aac8b349}">
+	<object class="AudioFile" id="{382cc244-724d-498e-bfcc-8c316b16163f}">
 		<property name="assetPath">
-			<value>finished sounds/AMB_birds.wav</value>
+			<value>finished sounds/AMB_cave_water_8.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>40</value>
+			<value>0.75870748299319724</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
