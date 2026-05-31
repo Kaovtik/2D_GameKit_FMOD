@@ -130,6 +130,9 @@ Surface: 2 - Metal</value>
 	</object>
 	<object class="MixerBusPanner" id="{673140c9-68b8-4121-952b-214749f407ae}" />
 	<object class="MultiSound" id="{698c60ed-8f2c-4ee2-9f3a-7b8f68f53645}">
+		<property name="volume">
+			<value>7</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{867f151a-b7c6-47e1-bc8c-dbc13ce3a560}</destination>
 			<destination>{add475a6-1dab-47d5-a8c7-c1fe34e9d33a}</destination>

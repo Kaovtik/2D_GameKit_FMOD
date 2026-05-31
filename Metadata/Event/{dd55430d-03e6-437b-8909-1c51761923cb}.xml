@@ -57,10 +57,14 @@
 			<destination>{e8ba3c55-198c-456d-adf1-44c26dead2e4}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0d701ae7-c4e0-424c-aa96-fccddccd5f44}</destination>
+			<destination>{71f008d7-7a61-43e4-b24e-49bac28106ea}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{8a502ca9-4b09-4313-b6a8-2768be22d0f2}" />
+	<object class="EventAutomatableProperties" id="{8a502ca9-4b09-4313-b6a8-2768be22d0f2}">
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{ed1fbec1-25f9-46b3-be3c-d54ae5e25c3e}" />
 	<object class="GroupTrack" id="{d33f531c-963e-43dc-9c90-c54b0bdbacd7}">
 		<relationship name="modules">
@@ -112,7 +116,7 @@
 			<value>10</value>
 		</property>
 		<property name="pitch">
-			<value>-4.5</value>
+			<value>-6.5</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{fedd6d02-081f-463b-ba82-faaeb87ed1b2}</destination>
@@ -120,6 +124,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{06908e7c-1587-4dbf-aa50-6b46456a41bc}">
+		<property name="volume">
+			<value>-7</value>
+		</property>
 		<property name="name">
 			<value>acid splash</value>
 		</property>
