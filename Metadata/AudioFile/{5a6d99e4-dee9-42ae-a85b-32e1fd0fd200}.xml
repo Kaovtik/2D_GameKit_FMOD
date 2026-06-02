@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{1b70f53a-2f00-496a-81e5-41ca28656e1f}">
+	<object class="AudioFile" id="{5a6d99e4-dee9-42ae-a85b-32e1fd0fd200}">
 		<property name="assetPath">
-			<value>spitter_1.wav</value>
+			<value>finished sounds/slime_1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.0598639455782313</value>
+			<value>0.5</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
