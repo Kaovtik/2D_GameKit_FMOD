@@ -151,7 +151,7 @@
 			<value>0.16079365079365079</value>
 		</property>
 		<property name="length">
-			<value>1.2062811791383219</value>
+			<value>0.97920634920634941</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{c056befb-90fd-4217-b2b6-e51fae323288}</destination>
@@ -181,6 +181,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{1b8fdc17-6ee9-4c49-986b-dbfbbc147391}">
+		<property name="length">
+			<value>0.85999999999999999</value>
+		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{c99d36e2-45c5-434b-851f-d3da4f54f8b6}</destination>
 		</relationship>
@@ -218,7 +221,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{6bf652ee-b5c7-4161-80c5-d32dcd333a89}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>debris 3</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{c7c00500-7abc-4cca-baa0-6bdcf2f934ec}</destination>
@@ -319,7 +322,7 @@
 	</object>
 	<object class="AutomationPoint" id="{740e26be-b794-401c-9eeb-633ebdba55df}">
 		<property name="position">
-			<value>1.3670748299319726</value>
+			<value>1.1400000000000001</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -339,7 +342,7 @@
 	</object>
 	<object class="AutomationPoint" id="{7f7cd765-7087-464e-bb56-06f381c69365}">
 		<property name="position">
-			<value>1</value>
+			<value>0.85999999999999999</value>
 		</property>
 		<property name="value">
 			<value>0</value>

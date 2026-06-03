@@ -220,7 +220,7 @@
 			<value>10</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>push box</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{4ea374b7-1b8d-4418-bbc7-065ee3a479ce}</destination>

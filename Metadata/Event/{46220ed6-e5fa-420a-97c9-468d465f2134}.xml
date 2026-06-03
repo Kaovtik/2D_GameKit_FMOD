@@ -245,7 +245,7 @@
 			<value>-4</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>acid</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{3af7867c-3350-4ee9-a4c7-e79e687d2ccf}</destination>
