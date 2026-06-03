@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{be6b2bdf-963b-411a-95a8-00d22e61a2ad}">
+		<property name="color">
+			<value>Purple Light 1</value>
+		</property>
+		<property name="volume">
+			<value>10</value>
+		</property>
+		<property name="name">
+			<value>INT_Door Open</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{93c08847-dedb-4790-85a7-cca7846ab9a5}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{0fcaa1a2-f819-4606-856c-e710409fdef1}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{7b22e01c-01dd-4907-84b3-2312f23a405a}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{93c08847-dedb-4790-85a7-cca7846ab9a5}">
+		<relationship name="effects">
+			<destination>{c5418a6d-419a-42d4-a412-f4b5af78462a}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{0fcaa1a2-f819-4606-856c-e710409fdef1}" />
+	<object class="MixerBusFader" id="{c5418a6d-419a-42d4-a412-f4b5af78462a}" />
+</objects>

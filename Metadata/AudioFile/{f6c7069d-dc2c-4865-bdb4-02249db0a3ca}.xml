@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{64fe9127-d765-4d42-a8fb-f1789003a20d}">
+	<object class="AudioFile" id="{f6c7069d-dc2c-4865-bdb4-02249db0a3ca}">
 		<property name="assetPath">
 			<value>pushing_box_dirt.wav</value>
 		</property>
