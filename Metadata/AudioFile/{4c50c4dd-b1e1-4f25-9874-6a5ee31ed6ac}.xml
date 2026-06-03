@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{4c50c4dd-b1e1-4f25-9874-6a5ee31ed6ac}">
 		<property name="assetPath">
-			<value>pushing_box.wav</value>
+			<value>finished sounds/pushing_box.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
