@@ -124,6 +124,9 @@
 		<property name="length">
 			<value>0.80000000000000004</value>
 		</property>
+		<property name="pitch">
+			<value>-3.4000001</value>
+		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{8320d60e-b04c-4bfe-bff3-f7086b9940a7}</destination>
 		</relationship>
@@ -144,6 +147,9 @@
 		<property name="length">
 			<value>1.2000000000000002</value>
 		</property>
+		<property name="pitch">
+			<value>-2.4000001</value>
+		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -159,7 +165,7 @@
 	</object>
 	<object class="SingleSound" id="{c41eac8b-8261-4575-9d0a-adf1075c1278}">
 		<property name="start">
-			<value>1.3500000000000001</value>
+			<value>1.25</value>
 		</property>
 		<property name="length">
 			<value>0.80000000000000004</value>
@@ -169,6 +175,9 @@
 		</property>
 		<property name="timelockedOffset">
 			<value>0.21213203435596431</value>
+		</property>
+		<property name="pitch">
+			<value>-2</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{0de9b9ef-f207-4e3b-a36e-746821e3d9c1}</destination>
@@ -189,6 +198,9 @@
 		</property>
 		<property name="length">
 			<value>1.2000000000000002</value>
+		</property>
+		<property name="pitch">
+			<value>-2.4000001</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -225,7 +237,7 @@
 			<value>0.80000000000000004</value>
 		</property>
 		<property name="length">
-			<value>0.55000000000000004</value>
+			<value>0.44999999999999996</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{20e417f7-347c-4a71-ab5f-4a2859ac231f}</destination>
@@ -236,7 +248,7 @@
 	</object>
 	<object class="NamedMarker" id="{fa265a45-f8e6-49fd-a346-c2f1b318de2a}">
 		<property name="position">
-			<value>1.3500000000000001</value>
+			<value>1.25</value>
 		</property>
 		<property name="name">
 			<value>End</value>
@@ -250,7 +262,7 @@
 	</object>
 	<object class="NamedMarker" id="{268e065f-9c18-4a57-8768-a55ecf0fcd05}">
 		<property name="position">
-			<value>1.75</value>
+			<value>1.7000000000000002</value>
 		</property>
 		<property name="name">
 			<value>EarlyEnd</value>
@@ -267,7 +279,7 @@
 			<value>0.40000000000000002</value>
 		</property>
 		<property name="length">
-			<value>0.94999999999999973</value>
+			<value>0.85000000000000009</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{20e417f7-347c-4a71-ab5f-4a2859ac231f}</destination>
@@ -438,7 +450,7 @@
 	</object>
 	<object class="AutomationPoint" id="{ca2e15ab-9e3e-4505-9a7c-e26adf1bd821}">
 		<property name="position">
-			<value>1.3500000000000001</value>
+			<value>1.25</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -457,7 +469,7 @@
 	</object>
 	<object class="AutomationPoint" id="{c142a313-795d-4e9f-a30b-b62b37f21d61}">
 		<property name="position">
-			<value>1.3500000000000001</value>
+			<value>1.25</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -495,7 +507,7 @@
 	</object>
 	<object class="AutomationPoint" id="{051c6b07-790a-44f5-a00a-27aafc835dc2}">
 		<property name="position">
-			<value>1.3499999999999996</value>
+			<value>1.25</value>
 		</property>
 		<property name="value">
 			<value>1</value>
