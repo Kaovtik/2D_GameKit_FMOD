@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9e40af9d-e8a0-4fda-9807-9f9b2d6a3dc1}">
+		<property name="note">
+			<value>A complex one-shot 2D sound used for the Zone 5 timeline when first seeing the boss Gunner.</value>
+		</property>
 		<property name="color">
 			<value>Red Light 2</value>
 		</property>

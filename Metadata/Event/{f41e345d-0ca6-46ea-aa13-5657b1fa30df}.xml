@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f41e345d-0ca6-46ea-aa13-5657b1fa30df}">
+		<property name="note">
+			<value>A looping 2D ambience sound for the cave environments of the game, looping using loop regions.</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

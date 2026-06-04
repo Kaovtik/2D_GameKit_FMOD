@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d8ad7379-fa94-43b1-8d46-14395959a1bb}">
+		<property name="note">
+			<value>A manager created to easily switch betweem the forest and cave ambiance as well as change the wind in said environments. Looping using loop regions, changing environments using destination markers and transition regions.
+</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

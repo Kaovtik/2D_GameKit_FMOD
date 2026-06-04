@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{4dc4d8b4-6f40-4823-b9dd-e5721000e57e}">
+		<property name="note">
+			<value>A one-shot 3D sound for when the boss Gunner takes damage by the player, using multi instruments to make it less repetitive.</value>
+		</property>
 		<property name="color">
 			<value>Red Light 2</value>
 		</property>

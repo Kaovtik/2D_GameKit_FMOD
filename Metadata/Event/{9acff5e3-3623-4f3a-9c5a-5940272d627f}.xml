@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9acff5e3-3623-4f3a-9c5a-5940272d627f}">
+		<property name="note">
+			<value>A looping 3D ambience sound for the acid pools of the game, looping using loop regions.</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

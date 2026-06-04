@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{941b9ffa-6e63-4953-9a0e-78123720dafc}">
+		<property name="note">
+			<value>A one-shot 3D sound for when the player opens up a stone door.</value>
+		</property>
 		<property name="color">
 			<value>Purple Light 1</value>
 		</property>

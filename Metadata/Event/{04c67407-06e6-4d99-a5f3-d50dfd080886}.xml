@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{04c67407-06e6-4d99-a5f3-d50dfd080886}">
+		<property name="note">
+			<value>A simple one-shot 2D sound for when clicking buttons on the main menu of the game, using multi instruments to make it less repetitive.</value>
+		</property>
 		<property name="color">
 			<value>Yellow Light 2</value>
 		</property>

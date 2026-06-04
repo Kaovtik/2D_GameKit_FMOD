@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{54d16240-2147-4616-99ea-05112968ea29}">
+		<property name="note">
+			<value>A one-shot 2D sound for when the player picks up keys.</value>
+		</property>
 		<property name="color">
 			<value>Purple Light 1</value>
 		</property>

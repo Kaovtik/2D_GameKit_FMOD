@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{46220ed6-e5fa-420a-97c9-468d465f2134}">
+		<property name="note">
+			<value>A one-shot 3D sound for when the enemy Spitter attacks the player, using multi instruments to not make it too repetitive.</value>
+		</property>
 		<property name="color">
 			<value>Red Light 1</value>
 		</property>

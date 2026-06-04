@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7405d521-5be1-4b0d-b996-6b574546454a}">
+		<property name="note">
+			<value>A simple one-shot 2D sound for when the door lights up after picking up the first key as well as when the player lights up crystal switches.</value>
+		</property>
 		<property name="color">
 			<value>Purple Light 1</value>
 		</property>

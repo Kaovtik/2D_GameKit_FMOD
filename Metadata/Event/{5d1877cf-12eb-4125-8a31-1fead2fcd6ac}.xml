@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{5d1877cf-12eb-4125-8a31-1fead2fcd6ac}">
+		<property name="note">
+			<value>A looping 2D wind sound for the different environments of the game.
+
+The "WindStrength" parameter dictates the intensity of the wind:
+
+0.00 = No wind
+1.00 = Strong wind</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{dd55430d-03e6-437b-8909-1c51761923cb}">
+		<property name="note">
+			<value>A one-shot 2D sound for when the player or boxes fall into the acid pools, using multi instruments to make it less repetitive.</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

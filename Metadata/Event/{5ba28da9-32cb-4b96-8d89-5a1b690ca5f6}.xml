@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{5ba28da9-32cb-4b96-8d89-5a1b690ca5f6}">
+		<property name="note">
+			<value>A one-shot 3D sound for when the boss Gunners shield changes states using a parameter, using multi instruments to make it less repetitive.
+
+The "ShieldState" parameter determines if the shield gets turned on or off.
+
+0 = Off
+1= On</value>
+		</property>
 		<property name="color">
 			<value>Red Light 2</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b7c0904c-3a66-4822-a123-d51828775324}">
+		<property name="note">
+			<value>A simple one-shot 2D sound for when clicking start button on the main menu of the game.</value>
+		</property>
 		<property name="color">
 			<value>Yellow Light 2</value>
 		</property>

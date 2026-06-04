@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{3a3d9df9-f922-4c15-9f29-bc341a22feb8}">
+		<property name="note">
+			<value>A one-shot 2D sound containing a loop for when the player pushes a box. The sound loops using loop regions, destination markers and transition regions.
+
+The "End" parameter determines if the sound loop or comes to an end.
+
+0 = Looping
+1= Not looping</value>
+		</property>
 		<property name="color">
 			<value>Purple Light 1</value>
 		</property>

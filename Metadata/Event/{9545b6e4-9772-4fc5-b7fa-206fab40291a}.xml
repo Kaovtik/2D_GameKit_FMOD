@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9545b6e4-9772-4fc5-b7fa-206fab40291a}">
+		<property name="note">
+			<value>A one-shot 2D sound for when the player gets health pickups.</value>
+		</property>
 		<property name="color">
 			<value>Purple Light 1</value>
 		</property>

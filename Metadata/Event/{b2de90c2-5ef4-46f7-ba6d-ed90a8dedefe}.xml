@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b2de90c2-5ef4-46f7-ba6d-ed90a8dedefe}">
+		<property name="note">
+			<value>A one-shot 3D sound for when the boss Gunners steam stage changes using a parameter.
+
+The "SteamStage" parameter determines the intensity of the stage.
+
+1 = Less intense
+2= More intense</value>
+		</property>
 		<property name="color">
 			<value>Red Light 2</value>
 		</property>

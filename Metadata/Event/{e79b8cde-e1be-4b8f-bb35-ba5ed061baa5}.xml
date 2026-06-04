@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e79b8cde-e1be-4b8f-bb35-ba5ed061baa5}">
+		<property name="note">
+			<value>A one-shot 3D sound for when the player breaks a destructable wall in the environment.</value>
+		</property>
 		<property name="color">
 			<value>Purple Light 1</value>
 		</property>

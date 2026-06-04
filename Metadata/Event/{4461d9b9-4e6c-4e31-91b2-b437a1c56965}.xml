@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{4461d9b9-4e6c-4e31-91b2-b437a1c56965}">
+		<property name="note">
+			<value>A simple one-shot 2D sound for when the player activates a pressure plate.</value>
+		</property>
 		<property name="color">
 			<value>Purple Light 1</value>
 		</property>

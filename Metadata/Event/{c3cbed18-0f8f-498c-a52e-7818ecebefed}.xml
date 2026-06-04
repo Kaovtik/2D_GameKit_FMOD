@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{c3cbed18-0f8f-498c-a52e-7818ecebefed}">
+		<property name="note">
+			<value>A one-shot 3D sound for when the boss Gunner does its lightning attack.</value>
+		</property>
 		<property name="color">
 			<value>Red Light 2</value>
 		</property>

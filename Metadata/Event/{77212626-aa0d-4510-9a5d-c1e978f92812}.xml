@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{77212626-aa0d-4510-9a5d-c1e978f92812}">
+		<property name="note">
+			<value>A one-shot 3D sound for when both enemies Spitter and Chomper die, using multi instruments to not make it too repetitive.</value>
+		</property>
 		<property name="color">
 			<value>Red Light 1</value>
 		</property>
