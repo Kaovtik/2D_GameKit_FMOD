@@ -945,7 +945,7 @@
 			<value>3.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>jingle</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{2f49960e-6ef9-43c3-b1d9-e1972a1a0b9b}</destination>

@@ -5,7 +5,7 @@
 			<value>Red Light 2</value>
 		</property>
 		<property name="name">
-			<value>Sheild State</value>
+			<value>Shield State</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -33,6 +33,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{956b51b0-72e4-4d1f-932f-b37ca1f6af20}</destination>
+		</relationship>
+		<relationship name="parameters">
+			<destination>{135a6095-9030-4e4c-b348-cf7dd6ebfd53}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{0e41109f-2d01-4da2-8a51-0de32d7fc467}</destination>
@@ -66,7 +69,16 @@
 			<destination>{d04724f9-9279-4673-a9df-f7b06cda7cab}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{956b51b0-72e4-4d1f-932f-b37ca1f6af20}" />
+	<object class="Timeline" id="{956b51b0-72e4-4d1f-932f-b37ca1f6af20}">
+		<property name="isProxyEnabled">
+			<value>false</value>
+		</property>
+	</object>
+	<object class="ParameterProxy" id="{135a6095-9030-4e4c-b348-cf7dd6ebfd53}">
+		<relationship name="preset">
+			<destination>{ee47be54-f133-480f-af04-459e55b3c692}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerMaster" id="{e7f2e188-caaa-4ee7-aa31-7037feaadf5d}">
 		<relationship name="effectChain">
 			<destination>{cac30063-1512-492a-9cf8-2001757e433a}</destination>
