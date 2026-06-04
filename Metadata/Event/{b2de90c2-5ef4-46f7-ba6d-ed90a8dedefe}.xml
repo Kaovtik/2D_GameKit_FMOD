@@ -112,6 +112,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{d4828f41-37a7-46a2-93b6-2ab0149a2948}">
+		<property name="volume">
+			<value>-6</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{bacff4cd-c500-4a7e-8cb2-e0ca0a6b32c8}</destination>
 		</relationship>
@@ -283,7 +286,7 @@
 			<value>1</value>
 		</property>
 		<property name="soundSize">
-			<value>58</value>
+			<value>220</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{bf0dcd19-225b-4c26-a999-bc2b7987d94f}" />
